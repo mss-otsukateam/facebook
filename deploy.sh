@@ -1,3 +1,4 @@
+testing strash commands
 again updating master branch..
 updating in master branch ..
 updating in dev branch
