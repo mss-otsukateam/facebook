@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 testing strash commands
+=======
+again updating my name
+>>>>>>> f5878cddca44ad678ff313ed04b83ba4586c5aec
 my name is aftab khan
 again updating master branch..
 updating in master branch ..
